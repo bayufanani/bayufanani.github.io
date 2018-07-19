@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "nama_wilayah": "Kec. Pudak Ds. Banjarejo",
+    "deskripsi": "lorem ipsum asdhi   uih aosdhj oaisd asd ashdjoioa sdi asd dd sdapoaj ajsycne ejeucoa",
+    "alternatif": [
+      "rb_o@qnigTFkI_FHyEHqCHy@DmFDj@bHDh@`AdNj@xG",
+      "xb_o@gghgT?mH?kAAYEEAEAu@?UAE?EFKJCJD@@hPWrEIN??JKfIElF"
+    ],
+    "lat": -7.864889,
+    "lng": 111.460808
+  },
+  {
+    "id": 2,
+    "nama_wilayah": "Kec. Pulung Ds. Banaran",
+    "deskripsi": "lorem ipsum asdhi   uih aosdhj oaisd asd ashdjoioa sdi asd dd sdapoaj ajsycne ejeucoa",
+    "alternatif": [
+      "xwrn@}hxgTmE]BS@[?uA?YEO@mG@qA?eBh@B|CHv@@",
+      "xwrn@}hxgTaHk@uAQJ{CDaBDcBDmDB}@BIHCdIRv@@"
+    ],
+    "lat": -7.801918,
+    "lng": 111.542432
+  },
+  {
+    "id": 3,
+    "nama_wilayah": "Kec. Ngebel Ds. Carat",
+    "deskripsi": "lorem ipsum asdhi   uih aosdhj oaisd asd ashdjoioa sdi asd dd sdapoaj ajsycne ejeucoa",
+    "alternatif": [
+      "bd_o@k_fgTEoH?eBbBFzBFnCHtCHdDJlA@~@EjBQb@IVKfAiA|@iARSTO\\In@Gh@OfAq@CEH_BNyDVaKR}WEaHQ_LA?CACAAE@IHCUwLQoI?WvELnDLbDLjRp@JAEhHAdBA`I?HO?"
+    ],
+    "lat": -7.865088,
+    "lng": 111.453018
+  }
+]
