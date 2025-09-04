@@ -1,0 +1,27 @@
+{
+  "name": "bayufanani.github.io",
+  "version": "1.0.0",
+  "description": "Portfolio Sibay Dev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch:11ty": "eleventy --serve",
+    "watch:css": "tailwindcss -i style.css -o _site/style.css --watch",
+    "start": "concurrently \"npm run watch:11ty\" \"npm run watch:css\""
+  },
+  "keywords": [
+    "portfolio",
+    "sibay",
+    "dev"
+  ],
+  "author": "Sibay Dev",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.2",
+    "@tailwindcss/cli": "^4.1.12",
+    "autoprefixer": "^10.4.21",
+    "concurrently": "^9.2.1",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.12"
+  }
+}
