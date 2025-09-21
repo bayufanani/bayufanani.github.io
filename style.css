@@ -5,7 +5,10 @@
 }
 h1,
 h2 {
-    @apply font-medium my-2;
+    @apply font-medium mt-8 mb-4 block;
+}
+p {
+    @apply mb-2 block;
 }
 h1 {
     @apply text-4xl;

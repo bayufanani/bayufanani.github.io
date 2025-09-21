@@ -5,19 +5,18 @@ title: Selamat Datang - Sibay Dev
 
 # Sibay Dev
 
-## Profil
+Hellow world! Welcome to my portfolio, my name is Bayu, this is my portfolio website, I will post blog and some of my work here. For recruiter welcome to my portfolio and take a look around I might not know high-level language since I'm not native english and I'm not expose to that kind of things often, but with that I can get the job done. Here is some of my best works not in any order:
 
-<div class="ps-4">
-Sudah lebih dari 7 tahun saya berkecimpung di dunia web development. Fokus utama saya ada di pengembangan website dengan **PHP** dan **JavaScript**, tapi saya juga cukup familiar dengan pengembangan **Android** dan **desktop** apps di level dasar.
+## Sistem Informasi Akademik PENS
 
-Selain itu, saya punya pengalaman eksplorasi dengan Go (basic) untuk kebutuhan backend ringan. Saya suka membangun solusi yang praktis, efisien, dan bisa benar-benar dipakai sesuai kebutuhan.
+This is working progress
 
-Kalau kamu butuh partner untuk bikin web yang solid dan bisa dikembangkan ke depannya, saya siap bantu
+## Button Hover
 
-</div>
+This is working progress
 
-## Riwayat
+Link to more works
 
-## Pengalaman
+# Blog
 
-## Keterampilan
+Here is articles I wrote in order by date
